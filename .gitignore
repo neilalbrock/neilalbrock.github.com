@@ -1,0 +1,9 @@
+#OSX
+.DS_Store
+.shell_history
+
+#Dev
+*.tmproj
+*.sublime*
+
+#Config
